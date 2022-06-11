@@ -7,55 +7,36 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
-
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
-
-## Learning Laravel
-
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[OP.GG](https://op.gg)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+Déscription De Projet :
+En tant que voies d'accès au savoir et à la culture, les bibliothèques occupent
+une place déterminante dans la société. Leurs ressources et services procurent
+en effet des possibilités d'apprentissage, favorisent l'alphabétisation et
+l'éducation et contribuent à former les nouvelles idées et perspectives à la base
+des sociétés créatives et innovantes. Les bibliothèques contribuent également à
+garantir un enregistrement authentique des connaissances acquises et
+accumulées par les générations passées. Dans un monde dépour vu de
+bibliothèques, il serait difficile de faire progresser la recherche et le savoir ou de
+préserver pour les générations futures les connaissances et le patrimoine
+accumulés par l'humanité. Non seulement les bibliothèques prêtent des livres,
+mais elles s'occupent de reproduire des documents à des fins de recherche ou
+d'étude privée. Les étudiants n'ont en effet pas les moyens d'acquérir chacun
+des ouvrages ou de payer pour chacune des émissions de télévision ou des
+revues auxquels ils doivent pouvoir accéder pour leurs études, si bien qu'ils
+dépendent des services d'une bibliothèque.
+Avant l’informatisation des bibliothèques, toutes les tâches étaient réalisées
+manuellement, et indépendamment les unes des autres. Les acquéreurs
+rédigeaient des bons de commande les documents reçus étaient signalés sur un
+registre d'inventaire manuscrit, puis les catalogueurs rédigeaient (au moins) une
+fiche cartonnée par document, qui ne quittait plus le meuble destiné à la
+conserver.
+Ce projet : réaliser un site de vente de livres en ligne que deux types
+d’utilisateurs pourront visiter. Le premier correspond à l’internaute en quête
+d’un ouvrage (le client), qui désire acheter un livre depuis son navigateur
+Internet. Le second est l’administrateur du site, qui gère la page de vente en
+ligne depuis son navigateur Internet.
+Nous avons dressé une liste des exigences de chacun de ces types d’utilisateurs.
+Gestion de bibliothèque, a pour objectif la conception d’un système
+d’information permettant d’aider à la gestion de la bibliothèque et plus
+précisément, aider à la gestion des emprunts, réservations et retours des livres.
+Au cours de ce projet, nous allons présenter différents diagrammes modélisés
+selon la
